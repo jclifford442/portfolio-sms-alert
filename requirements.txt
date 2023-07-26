@@ -1,0 +1,5 @@
+openpyxl~=3.1.2
+twilio~=8.5.0
+setuptools~=60.2.0
+# As of 7/26/2023, yfinance 0.2.25 is the latest compatible version
+yfinance==0.2.25
